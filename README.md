@@ -1,75 +1,47 @@
-📋 Sobre o projeto
-O Liter-Alura é uma aplicação web que oferece uma experiência imersiva no mundo literário, permitindo aos usuários explorar livros, autores e gêneros de forma dinâmica e interativa.
+# 📚 Liter-Alura
 
-✨ Funcionalidades
-📚 Catálogo de livros organizados por gêneros
+Uma aplicação web que oferece uma experiência imersiva no mundo literário, permitindo aos usuários explorar livros, autores e gêneros de forma dinâmica e interativa.
 
-🔍 Sistema de busca e filtros
+---
 
-👤 Perfis de autores
+## ✨ Funcionalidades
 
-💬 Sistema de avaliações e comentários
+- 📖 Catálogo de livros organizados por gêneros
+- 🔍 Sistema de busca e filtros
+- 👤 Perfis de autores
+- 💬 Sistema de avaliações e comentários
+- 📱 Design responsivo
+- ⚡ Interface moderna e intuitiva
 
-📱 Design responsivo
+---
 
-⚡ Interface moderna e intuitiva
+## 🛠 Tecnologias Utilizadas
 
-🛠️ Tecnologias utilizadas
-React - Framework principal
+- **React** – Framework principal
+- **Next.js** – Renderização e roteamento
+- **TypeScript** – Tipagem estática
+- **CSS/SASS** – Estilização
+- **HTML5** – Estrutura semântica
 
-Next.js - Renderização e roteamento
+---
 
-TypeScript - Tipagem estática
+## 🚀 Como Executar o Projeto
 
-CSS/SASS - Estilização
+### Pré-requisitos
 
-HTML5 - Estrutura semântica
+- Node.js (versão 16 ou superior)
+- npm ou yarn
 
-🚀 Como executar o projeto
-Pré-requisitos
-Node.js (versão 16 ou superior)
+### Instalação
 
-npm ou yarn
-
-Instalação
-Clone o repositório:
-
-bash
+```bash
+# Clone o repositório
 git clone https://github.com/LucasMaxSan/liter-Alura.git
-Acesse a pasta do projeto:
 
-bash
+# Acesse a pasta do projeto
 cd liter-Alura
-Instale as dependências:
 
-bash
+# Instale as dependências
 npm install
 # ou
 yarn install
-Execute o projeto:
-
-bash
-npm run dev
-# ou
-yarn dev
-Abra http://localhost:3000 no seu navegador
-
-📦 Scripts disponíveis
-dev - Executa o projeto em modo de desenvolvimento
-
-build - Constrói a versão de produção
-
-start - Inicia o servidor de produção
-
-lint - Executa análise estática do código
-
-🌐 Deploy
-O projeto está hospedado na Vercel. Acesse: https://liter-alura.vercel.app/
-
-📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-🤝 Contribuindo
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-
